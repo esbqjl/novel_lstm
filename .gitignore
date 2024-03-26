@@ -1,0 +1,13 @@
+*.pkl
+*.pyc
+*~
+__pycache__
+.DS_Store
+.env
+*.db
+word2vec/
+.coverage
+*.segment
+*.bin
+*.zip
+novel_copy.txt
